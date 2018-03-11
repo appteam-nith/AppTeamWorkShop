@@ -10,7 +10,6 @@ public class Post {
 
     private String message;
 
-
     public Post(String title, String message) {
         this.title = title;
         this.message = message;
